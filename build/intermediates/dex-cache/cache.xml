@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidSDK\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\QQChat\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a8d42e109252514ff05a7d526a38913994e3f78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\QQChat\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\QQChat\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_176170783f783993d2cc071d459192eb2d6f50db.jar" />
+    </item>
+
+</items>

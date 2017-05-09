@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_face_container.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\chat_face_container.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_lv_head.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\dropdown_lv_head.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dot_image.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\dot_image.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face_gridview.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\face_gridview.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face_image.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\face_image.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_copy_delete_menu.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\chat_item_copy_delete_menu.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_lv_item.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\chat_lv_item.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "D:\\QQChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_main.xml",
+        "source": "D:\\QQChat\\app\\src\\main\\res\\layout\\chat_main.xml"
+    }
+]
